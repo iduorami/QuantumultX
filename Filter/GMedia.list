@@ -106,14 +106,14 @@ HOST-SUFFIX,hbogoasia.hk,GMedia
 HOST-SUFFIX,hbonow.com,GMedia
 HOST-SUFFIX,hbomax.com,GMedia
 
-# > Hulu(フールー)
-HOST-SUFFIX,happyon.jp,GMedia
-HOST-SUFFIX,hulu.jp,GMedia
-
 # > Hulu
 HOST-SUFFIX,hulu.com,GMedia
 HOST-SUFFIX,huluim.com,GMedia
 HOST-SUFFIX,hulustream.com,GMedia
+
+# > Hulu Japan
+HOST-SUFFIX,happyon.jp,GMedia
+HOST-SUFFIX,hulu.jp,GMedia
 
 # > Japonx
 HOST-KEYWORD,japonx,GMedia
@@ -160,6 +160,12 @@ HOST-SUFFIX,pandora.com,GMedia
 # > PBS
 USER-AGENT,PBS*,GMedia
 HOST-SUFFIX,pbs.org,GMedia
+
+# > Pornhub
+HOST-SUFFIX,phncdn.com,GMedia
+HOST-SUFFIX,phprcdn.com,GMedia
+HOST-SUFFIX,pornhub.com,GMedia
+HOST-SUFFIX,pornhubpremium.com,GMedia
 
 # > SoundCloud
 USER-AGENT,SoundCloud*,GMedia
